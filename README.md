@@ -19,10 +19,10 @@ Here are some of the projects I’ve worked on:
 - [Airline Reservatin System](https://github.com/De-Silva-Madhushankha/Airline-Reservation-System): Website build using Node.js, Express.js, React and MYSQL.
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ke-vin-S&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ke-vin-S&show_icons=true&theme=swift)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ke-vin-S&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ke-vin-S&layout=compact&theme=swift)
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sanjula-2480a2342)
