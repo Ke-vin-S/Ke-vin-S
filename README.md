@@ -19,7 +19,7 @@ Here are some of the projects I’ve worked on:
 - [Airline Reservatin System](https://github.com/De-Silva-Madhushankha/Airline-Reservation-System): Website build using Node.js, Express.js, React and MYSQL.
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ke-vin-S&show_icons=true&theme=swift&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ke-vin-S&show_icons=true&theme=swift&cache_seconds=1800&include_all_commits=true&count_private=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ke-vin-S&layout=compact&theme=swift)
