@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Spring Boot** and **Node.js**.
 - 👯 I’m looking to collaborate on **open-source projects** and **sytsem development related projects**.
 - 💬 Ask me about **Java, Python, C or anything tech-related**.
-- 📫 How to reach me: [kevin.sanjula@example.com](mailto:kevin.sanjula@example.com).
+- 📫 How to reach me: [kevin.sanjula@example.com](mailto:kevin.sanjula@gmail.com).
 - ⚡ Speed Cuber and Clash of Clans player.
 
 ### My Skills
